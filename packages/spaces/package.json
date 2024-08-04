@@ -1,0 +1,7 @@
+{
+  "name": "@bwinkers/spaces",
+  "description": "Store Nugget JSON data and files in the browser.",
+  "type": "module",
+  "version": "0.1.0",
+  "main": "index.js"
+}
