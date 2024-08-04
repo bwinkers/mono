@@ -1,5 +1,6 @@
 {
     "name": "@bwinkers/multicorder",
+    "decription": "Collect and emits data from the browser: file uploads, camera access, microphone access, screen capture, geo location",
     "type": "module",
     "version": "0.1.0",
     "main": "index.js"
