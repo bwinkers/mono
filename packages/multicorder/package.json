@@ -1,5 +1,5 @@
 {
-  "name": "@bwinkers/multicorder",
+  "name": "@ultri/multicorder",
   "decription": "Collect and emits data from the browser: file uploads, camera access, microphone access, screen capture, geo location",
   "type": "module",
   "description": "",

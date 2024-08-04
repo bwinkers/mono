@@ -1,5 +1,5 @@
 {
-  "name": "@bwinkers/spaces",
+  "name": "@ultri/spaces",
   "description": "Store Nugget JSON data and files in the browser.",
   "type": "module",
   "main": "index.js",
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Brian Winkers",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@ultri/multicorder": "workspace:^"
+  }
 }

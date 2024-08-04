@@ -1,3 +1,3 @@
 export default () => {
-    console.log("Loaded package @bwinkers/nuggets");
+    console.log("Loaded package @ultri/nuggets");
 };

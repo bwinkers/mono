@@ -1,5 +1,5 @@
 {
-  "name": "@bwinkers/nuggets",
+  "name": "@ultri/nuggets",
   "description": "Pass data around in a common manner",
   "type": "module",
   "main": "index.js",

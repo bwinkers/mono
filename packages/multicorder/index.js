@@ -1,3 +1,3 @@
 export default () => {
-    console.log("Loaded package @bwinkers/multicorder");
+    console.log("Loaded package @ultri/multicorder");
 };
