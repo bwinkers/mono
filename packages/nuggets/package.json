@@ -2,12 +2,11 @@
   "name": "@bwinkers/nuggets",
   "description": "Pass data around in a common manner",
   "type": "module",
-  "version": "0.1.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Brian Winkers",
-  "license": "GPLv3"
+  "author": "",
+  "license": "ISC"
 }
