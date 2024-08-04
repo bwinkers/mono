@@ -1,34 +1,18 @@
-## Create base Vite project for Space app
+## Use pnpm
+
+This is implemented in the project root. 
+This makes developing component packages easier.
 
 ```sh
-cd apps
-yarn create vue@latest
+npm install pnpm -g
 ```
 
-Options:
+### Create .npmrc 
 
-```sh
-✔ Project name: … space
-✔ Add TypeScript? … No / Yes
-✔ Add JSX Support? … No / Yes
-✔ Add Vue Router for Single Page Application development? … No / Yes
-✔ Add Pinia for state management? … No / Yes
-✔ Add Vitest for Unit Testing? … No / Yes
-✔ Add an End-to-End Testing Solution? › Nightwatch
-✔ Add ESLint for code quality? … No / Yes
-✔ Add Prettier for code formatting? … No / Yes
-✔ Add Vue DevTools 7 extension for debugging? (experimental) … No / Yes
+Create `.npmrc` in the project root.
+
 ```
-
-```sh
-Scaffolding project in /home/brian/sandbox/mono/apps/space...
-
-Done. Now run:
-```
-
-``sh
-cd space
-yarn
-yarn format
-yarn dev
+link-workspace-packages = true
+prefer-workspace-packages = true
+recursive-install = true
 ```
