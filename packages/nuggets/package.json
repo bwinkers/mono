@@ -1,0 +1,8 @@
+{
+  "name": "@bwinkers/nuggets",
+  "description": "Pass data around in a common manner",
+  "type": "module",
+  "version": "0.1.0",
+  "main": "index.js"
+}
+
